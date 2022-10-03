@@ -1,4 +1,4 @@
-//nguyen thi thanh
+
 #include <iostream>
 #include <string>
 using namespace std;
